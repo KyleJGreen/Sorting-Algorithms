@@ -1,5 +1,5 @@
 /* Kyle Green
- * CSC 360-001
+ * CSC 364-001
  * 
  * For every iteration, n is multiplied by ten and the elements are reassigned
  * to new buckets until this process has been done for ten digits, producing a sorted array.
