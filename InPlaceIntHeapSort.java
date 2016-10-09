@@ -1,5 +1,5 @@
 /* Kyle Green
- * CSC 360-001
+ * CSC 364-001
  * 
  * A tree structure algorithm where the left branches of the trees are filled in first and no child
  * branch can have a greater value than that of its parent. Swaps the root of the heap
